@@ -1,0 +1,12 @@
+db-sqlite3==0.0.1
+flask==2.3.2
+requests==2.31.0
+pycopy-fcntl==0.0.4
+micropython-fcntl==0.0.4
+paho-mqtt==1.6.1
+
+# flask==1.1.2
+# paho-mqtt==1.5.1
+# mysql-connector-python==8.0.25
+# python-sql==1.4.2
+# MySQL-python==1.2.5  
